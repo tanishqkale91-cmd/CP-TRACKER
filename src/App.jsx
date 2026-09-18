@@ -2,6 +2,7 @@
 import DifficultyChart from "./Components/DifficultyChart";
 import React, { useEffect, useState } from "react"
 import SkillStats from "./Components/SkillStats";
+import SummaryCard from "./Components/SummaryCard";
 function App(){
   const [lcusername,setLCusername] = useState("");
   const [lcdata,setLcdata] = useState(null);
@@ -114,6 +115,7 @@ function App(){
      }
      <DifficultyChart name = {lcusername} search = {search}/>
      <SkillStats name={lcusername} search={search}/>
+     <SummaryCard data1 = {lcdata} data2 = {cfdata}/>
     </div>
 
     </>
