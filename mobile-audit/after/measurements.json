@@ -1,0 +1,2725 @@
+{
+  "viewports": [
+    [
+      320,
+      568
+    ],
+    [
+      360,
+      640
+    ],
+    [
+      375,
+      667
+    ],
+    [
+      390,
+      844
+    ],
+    [
+      412,
+      915
+    ],
+    [
+      430,
+      932
+    ],
+    [
+      568,
+      320
+    ],
+    [
+      844,
+      390
+    ],
+    [
+      768,
+      1024
+    ],
+    [
+      1024,
+      768
+    ],
+    [
+      1280,
+      800
+    ],
+    [
+      1440,
+      900
+    ]
+  ],
+  "results": [
+    {
+      "route": "/",
+      "width": 320,
+      "height": 568,
+      "viewport": {
+        "width": 320,
+        "height": 568
+      },
+      "scrollWidth": 320,
+      "horizontalOverflow": false,
+      "extendingElements": [],
+      "clippedElements": [],
+      "smallText": [],
+      "smallControls": [],
+      "controls": [
+        {
+          "selector": "a.brand",
+          "width": 99.9,
+          "height": 44,
+          "right": 119.9,
+          "bottom": 54,
+          "fontSize": "18px"
+        },
+        {
+          "selector": "button.menu-toggle",
+          "width": 64,
+          "height": 44,
+          "right": 300,
+          "bottom": 54,
+          "fontSize": "14px"
+        },
+        {
+          "selector": "input#lc-username.lookup-input",
+          "width": 242,
+          "height": 48,
+          "right": 281,
+          "bottom": 494.4,
+          "fontSize": "16px"
+        },
+        {
+          "selector": "input#cf-username.lookup-input",
+          "width": 242,
+          "height": 48,
+          "right": 281,
+          "bottom": 584.4,
+          "fontSize": "16px"
+        },
+        {
+          "selector": "button.button button-primary",
+          "width": 242,
+          "height": 44,
+          "right": 281,
+          "bottom": 644.4,
+          "fontSize": "14px"
+        },
+        {
+          "selector": "a.footer-link",
+          "width": 44,
+          "height": 44,
+          "right": 64,
+          "bottom": 872.4,
+          "fontSize": "14px"
+        },
+        {
+          "selector": "a.footer-link",
+          "width": 58.8,
+          "height": 44,
+          "right": 138.8,
+          "bottom": 872.4,
+          "fontSize": "14px"
+        }
+      ],
+      "consoleErrors": []
+    },
+    {
+      "route": "/Leetcode",
+      "width": 320,
+      "height": 568,
+      "viewport": {
+        "width": 320,
+        "height": 568
+      },
+      "scrollWidth": 320,
+      "horizontalOverflow": false,
+      "extendingElements": [],
+      "clippedElements": [],
+      "smallText": [],
+      "smallControls": [],
+      "controls": [
+        {
+          "selector": "a.brand",
+          "width": 99.9,
+          "height": 44,
+          "right": 119.9,
+          "bottom": 54,
+          "fontSize": "18px"
+        },
+        {
+          "selector": "button.menu-toggle",
+          "width": 64,
+          "height": 44,
+          "right": 300,
+          "bottom": 54,
+          "fontSize": "14px"
+        },
+        {
+          "selector": "a.button",
+          "width": 215.8,
+          "height": 44,
+          "right": 235.8,
+          "bottom": 525,
+          "fontSize": "14px"
+        },
+        {
+          "selector": "a.footer-link",
+          "width": 44,
+          "height": 44,
+          "right": 64,
+          "bottom": 722,
+          "fontSize": "14px"
+        },
+        {
+          "selector": "a.footer-link",
+          "width": 58.8,
+          "height": 44,
+          "right": 138.8,
+          "bottom": 722,
+          "fontSize": "14px"
+        }
+      ],
+      "consoleErrors": []
+    },
+    {
+      "route": "/Codeforce",
+      "width": 320,
+      "height": 568,
+      "viewport": {
+        "width": 320,
+        "height": 568
+      },
+      "scrollWidth": 320,
+      "horizontalOverflow": false,
+      "extendingElements": [],
+      "clippedElements": [],
+      "smallText": [],
+      "smallControls": [],
+      "controls": [
+        {
+          "selector": "a.brand",
+          "width": 99.9,
+          "height": 44,
+          "right": 119.9,
+          "bottom": 54,
+          "fontSize": "18px"
+        },
+        {
+          "selector": "button.menu-toggle",
+          "width": 64,
+          "height": 44,
+          "right": 300,
+          "bottom": 54,
+          "fontSize": "14px"
+        },
+        {
+          "selector": "a.button",
+          "width": 215.8,
+          "height": 44,
+          "right": 235.8,
+          "bottom": 525,
+          "fontSize": "14px"
+        },
+        {
+          "selector": "a.footer-link",
+          "width": 44,
+          "height": 44,
+          "right": 64,
+          "bottom": 722,
+          "fontSize": "14px"
+        },
+        {
+          "selector": "a.footer-link",
+          "width": 58.8,
+          "height": 44,
+          "right": 138.8,
+          "bottom": 722,
+          "fontSize": "14px"
+        }
+      ],
+      "consoleErrors": []
+    },
+    {
+      "route": "/",
+      "width": 360,
+      "height": 640,
+      "viewport": {
+        "width": 360,
+        "height": 640
+      },
+      "scrollWidth": 360,
+      "horizontalOverflow": false,
+      "extendingElements": [],
+      "clippedElements": [],
+      "smallText": [],
+      "smallControls": [],
+      "controls": [
+        {
+          "selector": "a.brand",
+          "width": 99.9,
+          "height": 44,
+          "right": 120.7,
+          "bottom": 54,
+          "fontSize": "18px"
+        },
+        {
+          "selector": "button.menu-toggle",
+          "width": 64,
+          "height": 44,
+          "right": 339.2,
+          "bottom": 54,
+          "fontSize": "14px"
+        },
+        {
+          "selector": "input#lc-username.lookup-input",
+          "width": 280.4,
+          "height": 48,
+          "right": 320.2,
+          "bottom": 459.9,
+          "fontSize": "16px"
+        },
+        {
+          "selector": "input#cf-username.lookup-input",
+          "width": 280.4,
+          "height": 48,
+          "right": 320.2,
+          "bottom": 549.9,
+          "fontSize": "16px"
+        },
+        {
+          "selector": "button.button button-primary",
+          "width": 280.4,
+          "height": 44,
+          "right": 320.2,
+          "bottom": 609.9,
+          "fontSize": "14px"
+        },
+        {
+          "selector": "a.footer-link",
+          "width": 44,
+          "height": 44,
+          "right": 64.8,
+          "bottom": 837.9,
+          "fontSize": "14px"
+        },
+        {
+          "selector": "a.footer-link",
+          "width": 58.8,
+          "height": 44,
+          "right": 139.6,
+          "bottom": 837.9,
+          "fontSize": "14px"
+        }
+      ],
+      "consoleErrors": []
+    },
+    {
+      "route": "/Leetcode",
+      "width": 360,
+      "height": 640,
+      "viewport": {
+        "width": 360,
+        "height": 640
+      },
+      "scrollWidth": 360,
+      "horizontalOverflow": false,
+      "extendingElements": [],
+      "clippedElements": [],
+      "smallText": [],
+      "smallControls": [],
+      "controls": [
+        {
+          "selector": "a.brand",
+          "width": 99.9,
+          "height": 44,
+          "right": 120.7,
+          "bottom": 54,
+          "fontSize": "18px"
+        },
+        {
+          "selector": "button.menu-toggle",
+          "width": 64,
+          "height": 44,
+          "right": 339.2,
+          "bottom": 54,
+          "fontSize": "14px"
+        },
+        {
+          "selector": "a.button",
+          "width": 215.8,
+          "height": 44,
+          "right": 236.6,
+          "bottom": 477.5,
+          "fontSize": "14px"
+        },
+        {
+          "selector": "a.footer-link",
+          "width": 44,
+          "height": 44,
+          "right": 64.8,
+          "bottom": 766,
+          "fontSize": "14px"
+        },
+        {
+          "selector": "a.footer-link",
+          "width": 58.8,
+          "height": 44,
+          "right": 139.6,
+          "bottom": 766,
+          "fontSize": "14px"
+        }
+      ],
+      "consoleErrors": []
+    },
+    {
+      "route": "/Codeforce",
+      "width": 360,
+      "height": 640,
+      "viewport": {
+        "width": 360,
+        "height": 640
+      },
+      "scrollWidth": 360,
+      "horizontalOverflow": false,
+      "extendingElements": [],
+      "clippedElements": [],
+      "smallText": [],
+      "smallControls": [],
+      "controls": [
+        {
+          "selector": "a.brand",
+          "width": 99.9,
+          "height": 44,
+          "right": 120.7,
+          "bottom": 54,
+          "fontSize": "18px"
+        },
+        {
+          "selector": "button.menu-toggle",
+          "width": 64,
+          "height": 44,
+          "right": 339.2,
+          "bottom": 54,
+          "fontSize": "14px"
+        },
+        {
+          "selector": "a.button",
+          "width": 215.8,
+          "height": 44,
+          "right": 236.6,
+          "bottom": 477.5,
+          "fontSize": "14px"
+        },
+        {
+          "selector": "a.footer-link",
+          "width": 44,
+          "height": 44,
+          "right": 64.8,
+          "bottom": 766,
+          "fontSize": "14px"
+        },
+        {
+          "selector": "a.footer-link",
+          "width": 58.8,
+          "height": 44,
+          "right": 139.6,
+          "bottom": 766,
+          "fontSize": "14px"
+        }
+      ],
+      "consoleErrors": []
+    },
+    {
+      "route": "/",
+      "width": 375,
+      "height": 667,
+      "viewport": {
+        "width": 375,
+        "height": 667
+      },
+      "scrollWidth": 375,
+      "horizontalOverflow": false,
+      "extendingElements": [],
+      "clippedElements": [],
+      "smallText": [],
+      "smallControls": [],
+      "controls": [
+        {
+          "selector": "a.brand",
+          "width": 99.9,
+          "height": 44,
+          "right": 121.1,
+          "bottom": 54,
+          "fontSize": "18px"
+        },
+        {
+          "selector": "button.menu-toggle",
+          "width": 64,
+          "height": 44,
+          "right": 353.8,
+          "bottom": 54,
+          "fontSize": "14px"
+        },
+        {
+          "selector": "input#lc-username.lookup-input",
+          "width": 294.5,
+          "height": 48,
+          "right": 334.8,
+          "bottom": 436.8,
+          "fontSize": "16px"
+        },
+        {
+          "selector": "input#cf-username.lookup-input",
+          "width": 294.5,
+          "height": 48,
+          "right": 334.8,
+          "bottom": 526.8,
+          "fontSize": "16px"
+        },
+        {
+          "selector": "button.button button-primary",
+          "width": 294.5,
+          "height": 44,
+          "right": 334.8,
+          "bottom": 586.8,
+          "fontSize": "14px"
+        },
+        {
+          "selector": "a.footer-link",
+          "width": 44,
+          "height": 44,
+          "right": 65.3,
+          "bottom": 814.8,
+          "fontSize": "14px"
+        },
+        {
+          "selector": "a.footer-link",
+          "width": 58.8,
+          "height": 44,
+          "right": 140.1,
+          "bottom": 814.8,
+          "fontSize": "14px"
+        }
+      ],
+      "consoleErrors": []
+    },
+    {
+      "route": "/Leetcode",
+      "width": 375,
+      "height": 667,
+      "viewport": {
+        "width": 375,
+        "height": 667
+      },
+      "scrollWidth": 375,
+      "horizontalOverflow": false,
+      "extendingElements": [],
+      "clippedElements": [],
+      "smallText": [],
+      "smallControls": [],
+      "controls": [
+        {
+          "selector": "a.brand",
+          "width": 99.9,
+          "height": 44,
+          "right": 121.1,
+          "bottom": 54,
+          "fontSize": "18px"
+        },
+        {
+          "selector": "button.menu-toggle",
+          "width": 64,
+          "height": 44,
+          "right": 353.8,
+          "bottom": 54,
+          "fontSize": "14px"
+        },
+        {
+          "selector": "a.button",
+          "width": 215.8,
+          "height": 44,
+          "right": 237.1,
+          "bottom": 480.4,
+          "fontSize": "14px"
+        },
+        {
+          "selector": "a.footer-link",
+          "width": 44,
+          "height": 44,
+          "right": 65.3,
+          "bottom": 793,
+          "fontSize": "14px"
+        },
+        {
+          "selector": "a.footer-link",
+          "width": 58.8,
+          "height": 44,
+          "right": 140.1,
+          "bottom": 793,
+          "fontSize": "14px"
+        }
+      ],
+      "consoleErrors": []
+    },
+    {
+      "route": "/Codeforce",
+      "width": 375,
+      "height": 667,
+      "viewport": {
+        "width": 375,
+        "height": 667
+      },
+      "scrollWidth": 375,
+      "horizontalOverflow": false,
+      "extendingElements": [],
+      "clippedElements": [],
+      "smallText": [],
+      "smallControls": [],
+      "controls": [
+        {
+          "selector": "a.brand",
+          "width": 99.9,
+          "height": 44,
+          "right": 121.1,
+          "bottom": 54,
+          "fontSize": "18px"
+        },
+        {
+          "selector": "button.menu-toggle",
+          "width": 64,
+          "height": 44,
+          "right": 353.8,
+          "bottom": 54,
+          "fontSize": "14px"
+        },
+        {
+          "selector": "a.button",
+          "width": 215.8,
+          "height": 44,
+          "right": 237.1,
+          "bottom": 480.4,
+          "fontSize": "14px"
+        },
+        {
+          "selector": "a.footer-link",
+          "width": 44,
+          "height": 44,
+          "right": 65.3,
+          "bottom": 793,
+          "fontSize": "14px"
+        },
+        {
+          "selector": "a.footer-link",
+          "width": 58.8,
+          "height": 44,
+          "right": 140.1,
+          "bottom": 793,
+          "fontSize": "14px"
+        }
+      ],
+      "consoleErrors": []
+    },
+    {
+      "route": "/",
+      "width": 390,
+      "height": 844,
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "scrollWidth": 390,
+      "horizontalOverflow": false,
+      "extendingElements": [],
+      "clippedElements": [],
+      "smallText": [],
+      "smallControls": [],
+      "controls": [
+        {
+          "selector": "a.brand",
+          "width": 99.9,
+          "height": 44,
+          "right": 121.5,
+          "bottom": 54,
+          "fontSize": "18px"
+        },
+        {
+          "selector": "button.menu-toggle",
+          "width": 64,
+          "height": 44,
+          "right": 368.3,
+          "bottom": 54,
+          "fontSize": "14px"
+        },
+        {
+          "selector": "input#lc-username.lookup-input",
+          "width": 308.6,
+          "height": 48,
+          "right": 349.3,
+          "bottom": 440.1,
+          "fontSize": "16px"
+        },
+        {
+          "selector": "input#cf-username.lookup-input",
+          "width": 308.6,
+          "height": 48,
+          "right": 349.3,
+          "bottom": 530.1,
+          "fontSize": "16px"
+        },
+        {
+          "selector": "button.button button-primary",
+          "width": 308.6,
+          "height": 44,
+          "right": 349.3,
+          "bottom": 590.1,
+          "fontSize": "14px"
+        },
+        {
+          "selector": "a.footer-link",
+          "width": 44,
+          "height": 44,
+          "right": 65.7,
+          "bottom": 970,
+          "fontSize": "14px"
+        },
+        {
+          "selector": "a.footer-link",
+          "width": 58.8,
+          "height": 44,
+          "right": 140.5,
+          "bottom": 970,
+          "fontSize": "14px"
+        }
+      ],
+      "consoleErrors": []
+    },
+    {
+      "route": "/Leetcode",
+      "width": 390,
+      "height": 844,
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "scrollWidth": 390,
+      "horizontalOverflow": false,
+      "extendingElements": [],
+      "clippedElements": [],
+      "smallText": [],
+      "smallControls": [],
+      "controls": [
+        {
+          "selector": "a.brand",
+          "width": 99.9,
+          "height": 44,
+          "right": 121.5,
+          "bottom": 54,
+          "fontSize": "18px"
+        },
+        {
+          "selector": "button.menu-toggle",
+          "width": 64,
+          "height": 44,
+          "right": 368.3,
+          "bottom": 54,
+          "fontSize": "14px"
+        },
+        {
+          "selector": "a.button",
+          "width": 215.8,
+          "height": 44,
+          "right": 237.5,
+          "bottom": 483.3,
+          "fontSize": "14px"
+        },
+        {
+          "selector": "a.footer-link",
+          "width": 44,
+          "height": 44,
+          "right": 65.7,
+          "bottom": 970,
+          "fontSize": "14px"
+        },
+        {
+          "selector": "a.footer-link",
+          "width": 58.8,
+          "height": 44,
+          "right": 140.5,
+          "bottom": 970,
+          "fontSize": "14px"
+        }
+      ],
+      "consoleErrors": []
+    },
+    {
+      "route": "/Codeforce",
+      "width": 390,
+      "height": 844,
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "scrollWidth": 390,
+      "horizontalOverflow": false,
+      "extendingElements": [],
+      "clippedElements": [],
+      "smallText": [],
+      "smallControls": [],
+      "controls": [
+        {
+          "selector": "a.brand",
+          "width": 99.9,
+          "height": 44,
+          "right": 121.5,
+          "bottom": 54,
+          "fontSize": "18px"
+        },
+        {
+          "selector": "button.menu-toggle",
+          "width": 64,
+          "height": 44,
+          "right": 368.3,
+          "bottom": 54,
+          "fontSize": "14px"
+        },
+        {
+          "selector": "a.button",
+          "width": 215.8,
+          "height": 44,
+          "right": 237.5,
+          "bottom": 483.3,
+          "fontSize": "14px"
+        },
+        {
+          "selector": "a.footer-link",
+          "width": 44,
+          "height": 44,
+          "right": 65.7,
+          "bottom": 970,
+          "fontSize": "14px"
+        },
+        {
+          "selector": "a.footer-link",
+          "width": 58.8,
+          "height": 44,
+          "right": 140.5,
+          "bottom": 970,
+          "fontSize": "14px"
+        }
+      ],
+      "consoleErrors": []
+    },
+    {
+      "route": "/",
+      "width": 412,
+      "height": 915,
+      "viewport": {
+        "width": 412,
+        "height": 915
+      },
+      "scrollWidth": 412,
+      "horizontalOverflow": false,
+      "extendingElements": [],
+      "clippedElements": [],
+      "smallText": [],
+      "smallControls": [],
+      "controls": [
+        {
+          "selector": "a.brand",
+          "width": 99.9,
+          "height": 44,
+          "right": 122.2,
+          "bottom": 54,
+          "fontSize": "18px"
+        },
+        {
+          "selector": "button.menu-toggle",
+          "width": 64,
+          "height": 44,
+          "right": 389.6,
+          "bottom": 54,
+          "fontSize": "14px"
+        },
+        {
+          "selector": "input#lc-username.lookup-input",
+          "width": 329.3,
+          "height": 48,
+          "right": 370.6,
+          "bottom": 444.9,
+          "fontSize": "16px"
+        },
+        {
+          "selector": "input#cf-username.lookup-input",
+          "width": 329.3,
+          "height": 48,
+          "right": 370.6,
+          "bottom": 534.9,
+          "fontSize": "16px"
+        },
+        {
+          "selector": "button.button button-primary",
+          "width": 329.3,
+          "height": 44,
+          "right": 370.6,
+          "bottom": 594.9,
+          "fontSize": "14px"
+        },
+        {
+          "selector": "a.footer-link",
+          "width": 44,
+          "height": 44,
+          "right": 66.4,
+          "bottom": 1023,
+          "fontSize": "14px"
+        },
+        {
+          "selector": "a.footer-link",
+          "width": 58.8,
+          "height": 44,
+          "right": 141.2,
+          "bottom": 1023,
+          "fontSize": "14px"
+        }
+      ],
+      "consoleErrors": []
+    },
+    {
+      "route": "/Leetcode",
+      "width": 412,
+      "height": 915,
+      "viewport": {
+        "width": 412,
+        "height": 915
+      },
+      "scrollWidth": 412,
+      "horizontalOverflow": false,
+      "extendingElements": [],
+      "clippedElements": [],
+      "smallText": [],
+      "smallControls": [],
+      "controls": [
+        {
+          "selector": "a.brand",
+          "width": 99.9,
+          "height": 44,
+          "right": 122.2,
+          "bottom": 54,
+          "fontSize": "18px"
+        },
+        {
+          "selector": "button.menu-toggle",
+          "width": 64,
+          "height": 44,
+          "right": 389.6,
+          "bottom": 54,
+          "fontSize": "14px"
+        },
+        {
+          "selector": "a.button",
+          "width": 215.8,
+          "height": 44,
+          "right": 238.2,
+          "bottom": 487.6,
+          "fontSize": "14px"
+        },
+        {
+          "selector": "a.footer-link",
+          "width": 44,
+          "height": 44,
+          "right": 66.4,
+          "bottom": 1023,
+          "fontSize": "14px"
+        },
+        {
+          "selector": "a.footer-link",
+          "width": 58.8,
+          "height": 44,
+          "right": 141.2,
+          "bottom": 1023,
+          "fontSize": "14px"
+        }
+      ],
+      "consoleErrors": []
+    },
+    {
+      "route": "/Codeforce",
+      "width": 412,
+      "height": 915,
+      "viewport": {
+        "width": 412,
+        "height": 915
+      },
+      "scrollWidth": 412,
+      "horizontalOverflow": false,
+      "extendingElements": [],
+      "clippedElements": [],
+      "smallText": [],
+      "smallControls": [],
+      "controls": [
+        {
+          "selector": "a.brand",
+          "width": 99.9,
+          "height": 44,
+          "right": 122.2,
+          "bottom": 54,
+          "fontSize": "18px"
+        },
+        {
+          "selector": "button.menu-toggle",
+          "width": 64,
+          "height": 44,
+          "right": 389.6,
+          "bottom": 54,
+          "fontSize": "14px"
+        },
+        {
+          "selector": "a.button",
+          "width": 215.8,
+          "height": 44,
+          "right": 238.2,
+          "bottom": 487.6,
+          "fontSize": "14px"
+        },
+        {
+          "selector": "a.footer-link",
+          "width": 44,
+          "height": 44,
+          "right": 66.4,
+          "bottom": 1023,
+          "fontSize": "14px"
+        },
+        {
+          "selector": "a.footer-link",
+          "width": 58.8,
+          "height": 44,
+          "right": 141.2,
+          "bottom": 1023,
+          "fontSize": "14px"
+        }
+      ],
+      "consoleErrors": []
+    },
+    {
+      "route": "/",
+      "width": 430,
+      "height": 932,
+      "viewport": {
+        "width": 430,
+        "height": 932
+      },
+      "scrollWidth": 430,
+      "horizontalOverflow": false,
+      "extendingElements": [],
+      "clippedElements": [],
+      "smallText": [],
+      "smallControls": [],
+      "controls": [
+        {
+          "selector": "a.brand",
+          "width": 99.9,
+          "height": 44,
+          "right": 122.8,
+          "bottom": 54,
+          "fontSize": "18px"
+        },
+        {
+          "selector": "button.menu-toggle",
+          "width": 64,
+          "height": 44,
+          "right": 407.1,
+          "bottom": 54,
+          "fontSize": "14px"
+        },
+        {
+          "selector": "input#lc-username.lookup-input",
+          "width": 346.2,
+          "height": 48,
+          "right": 388.1,
+          "bottom": 448.8,
+          "fontSize": "16px"
+        },
+        {
+          "selector": "input#cf-username.lookup-input",
+          "width": 346.2,
+          "height": 48,
+          "right": 388.1,
+          "bottom": 538.8,
+          "fontSize": "16px"
+        },
+        {
+          "selector": "button.button button-primary",
+          "width": 346.2,
+          "height": 44,
+          "right": 388.1,
+          "bottom": 598.8,
+          "fontSize": "14px"
+        },
+        {
+          "selector": "a.footer-link",
+          "width": 44,
+          "height": 44,
+          "right": 66.9,
+          "bottom": 1040,
+          "fontSize": "14px"
+        },
+        {
+          "selector": "a.footer-link",
+          "width": 58.8,
+          "height": 44,
+          "right": 141.7,
+          "bottom": 1040,
+          "fontSize": "14px"
+        }
+      ],
+      "consoleErrors": []
+    },
+    {
+      "route": "/Leetcode",
+      "width": 430,
+      "height": 932,
+      "viewport": {
+        "width": 430,
+        "height": 932
+      },
+      "scrollWidth": 430,
+      "horizontalOverflow": false,
+      "extendingElements": [],
+      "clippedElements": [],
+      "smallText": [],
+      "smallControls": [],
+      "controls": [
+        {
+          "selector": "a.brand",
+          "width": 99.9,
+          "height": 44,
+          "right": 122.8,
+          "bottom": 54,
+          "fontSize": "18px"
+        },
+        {
+          "selector": "button.menu-toggle",
+          "width": 64,
+          "height": 44,
+          "right": 407.1,
+          "bottom": 54,
+          "fontSize": "14px"
+        },
+        {
+          "selector": "a.button",
+          "width": 215.8,
+          "height": 44,
+          "right": 238.7,
+          "bottom": 491.2,
+          "fontSize": "14px"
+        },
+        {
+          "selector": "a.footer-link",
+          "width": 44,
+          "height": 44,
+          "right": 66.9,
+          "bottom": 1040,
+          "fontSize": "14px"
+        },
+        {
+          "selector": "a.footer-link",
+          "width": 58.8,
+          "height": 44,
+          "right": 141.7,
+          "bottom": 1040,
+          "fontSize": "14px"
+        }
+      ],
+      "consoleErrors": []
+    },
+    {
+      "route": "/Codeforce",
+      "width": 430,
+      "height": 932,
+      "viewport": {
+        "width": 430,
+        "height": 932
+      },
+      "scrollWidth": 430,
+      "horizontalOverflow": false,
+      "extendingElements": [],
+      "clippedElements": [],
+      "smallText": [],
+      "smallControls": [],
+      "controls": [
+        {
+          "selector": "a.brand",
+          "width": 99.9,
+          "height": 44,
+          "right": 122.8,
+          "bottom": 54,
+          "fontSize": "18px"
+        },
+        {
+          "selector": "button.menu-toggle",
+          "width": 64,
+          "height": 44,
+          "right": 407.1,
+          "bottom": 54,
+          "fontSize": "14px"
+        },
+        {
+          "selector": "a.button",
+          "width": 215.8,
+          "height": 44,
+          "right": 238.7,
+          "bottom": 491.2,
+          "fontSize": "14px"
+        },
+        {
+          "selector": "a.footer-link",
+          "width": 44,
+          "height": 44,
+          "right": 66.9,
+          "bottom": 1040,
+          "fontSize": "14px"
+        },
+        {
+          "selector": "a.footer-link",
+          "width": 58.8,
+          "height": 44,
+          "right": 141.7,
+          "bottom": 1040,
+          "fontSize": "14px"
+        }
+      ],
+      "consoleErrors": []
+    },
+    {
+      "route": "/",
+      "width": 568,
+      "height": 320,
+      "viewport": {
+        "width": 568,
+        "height": 320
+      },
+      "scrollWidth": 568,
+      "horizontalOverflow": false,
+      "extendingElements": [],
+      "clippedElements": [],
+      "smallText": [],
+      "smallControls": [],
+      "controls": [
+        {
+          "selector": "a.brand",
+          "width": 99.9,
+          "height": 44,
+          "right": 126.9,
+          "bottom": 54,
+          "fontSize": "18px"
+        },
+        {
+          "selector": "button.menu-toggle",
+          "width": 64,
+          "height": 44,
+          "right": 541,
+          "bottom": 54,
+          "fontSize": "14px"
+        },
+        {
+          "selector": "input#lc-username.lookup-input",
+          "width": 471.9,
+          "height": 48,
+          "right": 520,
+          "bottom": 414.3,
+          "fontSize": "16px"
+        },
+        {
+          "selector": "input#cf-username.lookup-input",
+          "width": 471.9,
+          "height": 48,
+          "right": 520,
+          "bottom": 504.3,
+          "fontSize": "16px"
+        },
+        {
+          "selector": "button.button button-primary",
+          "width": 471.9,
+          "height": 44,
+          "right": 520,
+          "bottom": 564.3,
+          "fontSize": "14px"
+        },
+        {
+          "selector": "a.footer-link",
+          "width": 44,
+          "height": 44,
+          "right": 71,
+          "bottom": 792.3,
+          "fontSize": "14px"
+        },
+        {
+          "selector": "a.footer-link",
+          "width": 58.8,
+          "height": 44,
+          "right": 145.8,
+          "bottom": 792.3,
+          "fontSize": "14px"
+        }
+      ],
+      "consoleErrors": []
+    },
+    {
+      "route": "/Leetcode",
+      "width": 568,
+      "height": 320,
+      "viewport": {
+        "width": 568,
+        "height": 320
+      },
+      "scrollWidth": 568,
+      "horizontalOverflow": false,
+      "extendingElements": [],
+      "clippedElements": [],
+      "smallText": [],
+      "smallControls": [],
+      "controls": [
+        {
+          "selector": "a.brand",
+          "width": 99.9,
+          "height": 44,
+          "right": 126.9,
+          "bottom": 54,
+          "fontSize": "18px"
+        },
+        {
+          "selector": "button.menu-toggle",
+          "width": 64,
+          "height": 44,
+          "right": 541,
+          "bottom": 54,
+          "fontSize": "14px"
+        },
+        {
+          "selector": "a.button",
+          "width": 215.8,
+          "height": 44,
+          "right": 242.8,
+          "bottom": 422.3,
+          "fontSize": "14px"
+        },
+        {
+          "selector": "a.footer-link",
+          "width": 44,
+          "height": 44,
+          "right": 71,
+          "bottom": 617.3,
+          "fontSize": "14px"
+        },
+        {
+          "selector": "a.footer-link",
+          "width": 58.8,
+          "height": 44,
+          "right": 145.8,
+          "bottom": 617.3,
+          "fontSize": "14px"
+        }
+      ],
+      "consoleErrors": []
+    },
+    {
+      "route": "/Codeforce",
+      "width": 568,
+      "height": 320,
+      "viewport": {
+        "width": 568,
+        "height": 320
+      },
+      "scrollWidth": 568,
+      "horizontalOverflow": false,
+      "extendingElements": [],
+      "clippedElements": [],
+      "smallText": [],
+      "smallControls": [],
+      "controls": [
+        {
+          "selector": "a.brand",
+          "width": 99.9,
+          "height": 44,
+          "right": 126.9,
+          "bottom": 54,
+          "fontSize": "18px"
+        },
+        {
+          "selector": "button.menu-toggle",
+          "width": 64,
+          "height": 44,
+          "right": 541,
+          "bottom": 54,
+          "fontSize": "14px"
+        },
+        {
+          "selector": "a.button",
+          "width": 215.8,
+          "height": 44,
+          "right": 242.8,
+          "bottom": 422.3,
+          "fontSize": "14px"
+        },
+        {
+          "selector": "a.footer-link",
+          "width": 44,
+          "height": 44,
+          "right": 71,
+          "bottom": 617.3,
+          "fontSize": "14px"
+        },
+        {
+          "selector": "a.footer-link",
+          "width": 58.8,
+          "height": 44,
+          "right": 145.8,
+          "bottom": 617.3,
+          "fontSize": "14px"
+        }
+      ],
+      "consoleErrors": []
+    },
+    {
+      "route": "/",
+      "width": 844,
+      "height": 390,
+      "viewport": {
+        "width": 844,
+        "height": 390
+      },
+      "scrollWidth": 844,
+      "horizontalOverflow": false,
+      "extendingElements": [],
+      "clippedElements": [],
+      "smallText": [],
+      "smallControls": [],
+      "controls": [
+        {
+          "selector": "a.brand",
+          "width": 99.9,
+          "height": 44,
+          "right": 131.9,
+          "bottom": 54,
+          "fontSize": "18px"
+        },
+        {
+          "selector": "a.nav-link active",
+          "width": 56.5,
+          "height": 44,
+          "right": 614.8,
+          "bottom": 54,
+          "fontSize": "12px"
+        },
+        {
+          "selector": "a.nav-link",
+          "width": 87,
+          "height": 44,
+          "right": 705.8,
+          "bottom": 54,
+          "fontSize": "12px"
+        },
+        {
+          "selector": "a.nav-link",
+          "width": 102.2,
+          "height": 44,
+          "right": 812,
+          "bottom": 54,
+          "fontSize": "12px"
+        },
+        {
+          "selector": "input#lc-username.lookup-input",
+          "width": 257.8,
+          "height": 48,
+          "right": 320.3,
+          "bottom": 486.1,
+          "fontSize": "16px"
+        },
+        {
+          "selector": "input#cf-username.lookup-input",
+          "width": 257.8,
+          "height": 48,
+          "right": 594.1,
+          "bottom": 486.1,
+          "fontSize": "16px"
+        },
+        {
+          "selector": "button.button button-primary",
+          "width": 171.4,
+          "height": 44,
+          "right": 781.5,
+          "bottom": 486.1,
+          "fontSize": "14px"
+        },
+        {
+          "selector": "a.footer-link",
+          "width": 44,
+          "height": 44,
+          "right": 737.2,
+          "bottom": 693.6,
+          "fontSize": "14px"
+        },
+        {
+          "selector": "a.footer-link",
+          "width": 58.8,
+          "height": 44,
+          "right": 812,
+          "bottom": 693.6,
+          "fontSize": "14px"
+        }
+      ],
+      "consoleErrors": []
+    },
+    {
+      "route": "/Leetcode",
+      "width": 844,
+      "height": 390,
+      "viewport": {
+        "width": 844,
+        "height": 390
+      },
+      "scrollWidth": 844,
+      "horizontalOverflow": false,
+      "extendingElements": [],
+      "clippedElements": [],
+      "smallText": [],
+      "smallControls": [],
+      "controls": [
+        {
+          "selector": "a.brand",
+          "width": 99.9,
+          "height": 44,
+          "right": 131.9,
+          "bottom": 54,
+          "fontSize": "18px"
+        },
+        {
+          "selector": "a.nav-link",
+          "width": 56.5,
+          "height": 44,
+          "right": 614.8,
+          "bottom": 54,
+          "fontSize": "12px"
+        },
+        {
+          "selector": "a.nav-link active",
+          "width": 87,
+          "height": 44,
+          "right": 705.8,
+          "bottom": 54,
+          "fontSize": "12px"
+        },
+        {
+          "selector": "a.nav-link",
+          "width": 102.2,
+          "height": 44,
+          "right": 812,
+          "bottom": 54,
+          "fontSize": "12px"
+        },
+        {
+          "selector": "a.button",
+          "width": 215.8,
+          "height": 44,
+          "right": 247.8,
+          "bottom": 437.6,
+          "fontSize": "14px"
+        },
+        {
+          "selector": "a.footer-link",
+          "width": 44,
+          "height": 44,
+          "right": 737.2,
+          "bottom": 602.6,
+          "fontSize": "14px"
+        },
+        {
+          "selector": "a.footer-link",
+          "width": 58.8,
+          "height": 44,
+          "right": 812,
+          "bottom": 602.6,
+          "fontSize": "14px"
+        }
+      ],
+      "consoleErrors": []
+    },
+    {
+      "route": "/Codeforce",
+      "width": 844,
+      "height": 390,
+      "viewport": {
+        "width": 844,
+        "height": 390
+      },
+      "scrollWidth": 844,
+      "horizontalOverflow": false,
+      "extendingElements": [],
+      "clippedElements": [],
+      "smallText": [],
+      "smallControls": [],
+      "controls": [
+        {
+          "selector": "a.brand",
+          "width": 99.9,
+          "height": 44,
+          "right": 131.9,
+          "bottom": 54,
+          "fontSize": "18px"
+        },
+        {
+          "selector": "a.nav-link",
+          "width": 56.5,
+          "height": 44,
+          "right": 614.8,
+          "bottom": 54,
+          "fontSize": "12px"
+        },
+        {
+          "selector": "a.nav-link",
+          "width": 87,
+          "height": 44,
+          "right": 705.8,
+          "bottom": 54,
+          "fontSize": "12px"
+        },
+        {
+          "selector": "a.nav-link active",
+          "width": 102.2,
+          "height": 44,
+          "right": 812,
+          "bottom": 54,
+          "fontSize": "12px"
+        },
+        {
+          "selector": "a.button",
+          "width": 215.8,
+          "height": 44,
+          "right": 247.8,
+          "bottom": 437.6,
+          "fontSize": "14px"
+        },
+        {
+          "selector": "a.footer-link",
+          "width": 44,
+          "height": 44,
+          "right": 737.2,
+          "bottom": 602.6,
+          "fontSize": "14px"
+        },
+        {
+          "selector": "a.footer-link",
+          "width": 58.8,
+          "height": 44,
+          "right": 812,
+          "bottom": 602.6,
+          "fontSize": "14px"
+        }
+      ],
+      "consoleErrors": []
+    },
+    {
+      "route": "/",
+      "width": 768,
+      "height": 1024,
+      "viewport": {
+        "width": 768,
+        "height": 1024
+      },
+      "scrollWidth": 768,
+      "horizontalOverflow": false,
+      "extendingElements": [],
+      "clippedElements": [],
+      "smallText": [],
+      "smallControls": [],
+      "controls": [
+        {
+          "selector": "a.brand",
+          "width": 99.9,
+          "height": 44,
+          "right": 131.9,
+          "bottom": 54,
+          "fontSize": "18px"
+        },
+        {
+          "selector": "a.nav-link active",
+          "width": 56.5,
+          "height": 44,
+          "right": 538.8,
+          "bottom": 54,
+          "fontSize": "12px"
+        },
+        {
+          "selector": "a.nav-link",
+          "width": 87,
+          "height": 44,
+          "right": 629.8,
+          "bottom": 54,
+          "fontSize": "12px"
+        },
+        {
+          "selector": "a.nav-link",
+          "width": 102.2,
+          "height": 44,
+          "right": 736,
+          "bottom": 54,
+          "fontSize": "12px"
+        },
+        {
+          "selector": "input#lc-username.lookup-input",
+          "width": 222.4,
+          "height": 48,
+          "right": 282.3,
+          "bottom": 464.6,
+          "fontSize": "16px"
+        },
+        {
+          "selector": "input#cf-username.lookup-input",
+          "width": 222.5,
+          "height": 48,
+          "right": 520.8,
+          "bottom": 464.6,
+          "fontSize": "16px"
+        },
+        {
+          "selector": "button.button button-primary",
+          "width": 171.4,
+          "height": 44,
+          "right": 708.1,
+          "bottom": 464.6,
+          "fontSize": "14px"
+        },
+        {
+          "selector": "a.footer-link",
+          "width": 44,
+          "height": 44,
+          "right": 661.2,
+          "bottom": 1102,
+          "fontSize": "14px"
+        },
+        {
+          "selector": "a.footer-link",
+          "width": 58.8,
+          "height": 44,
+          "right": 736,
+          "bottom": 1102,
+          "fontSize": "14px"
+        }
+      ],
+      "consoleErrors": []
+    },
+    {
+      "route": "/Leetcode",
+      "width": 768,
+      "height": 1024,
+      "viewport": {
+        "width": 768,
+        "height": 1024
+      },
+      "scrollWidth": 768,
+      "horizontalOverflow": false,
+      "extendingElements": [],
+      "clippedElements": [],
+      "smallText": [],
+      "smallControls": [],
+      "controls": [
+        {
+          "selector": "a.brand",
+          "width": 99.9,
+          "height": 44,
+          "right": 131.9,
+          "bottom": 54,
+          "fontSize": "18px"
+        },
+        {
+          "selector": "a.nav-link",
+          "width": 56.5,
+          "height": 44,
+          "right": 538.8,
+          "bottom": 54,
+          "fontSize": "12px"
+        },
+        {
+          "selector": "a.nav-link active",
+          "width": 87,
+          "height": 44,
+          "right": 629.8,
+          "bottom": 54,
+          "fontSize": "12px"
+        },
+        {
+          "selector": "a.nav-link",
+          "width": 102.2,
+          "height": 44,
+          "right": 736,
+          "bottom": 54,
+          "fontSize": "12px"
+        },
+        {
+          "selector": "a.button",
+          "width": 215.8,
+          "height": 44,
+          "right": 247.8,
+          "bottom": 424.4,
+          "fontSize": "14px"
+        },
+        {
+          "selector": "a.footer-link",
+          "width": 44,
+          "height": 44,
+          "right": 661.2,
+          "bottom": 1102,
+          "fontSize": "14px"
+        },
+        {
+          "selector": "a.footer-link",
+          "width": 58.8,
+          "height": 44,
+          "right": 736,
+          "bottom": 1102,
+          "fontSize": "14px"
+        }
+      ],
+      "consoleErrors": []
+    },
+    {
+      "route": "/Codeforce",
+      "width": 768,
+      "height": 1024,
+      "viewport": {
+        "width": 768,
+        "height": 1024
+      },
+      "scrollWidth": 768,
+      "horizontalOverflow": false,
+      "extendingElements": [],
+      "clippedElements": [],
+      "smallText": [],
+      "smallControls": [],
+      "controls": [
+        {
+          "selector": "a.brand",
+          "width": 99.9,
+          "height": 44,
+          "right": 131.9,
+          "bottom": 54,
+          "fontSize": "18px"
+        },
+        {
+          "selector": "a.nav-link",
+          "width": 56.5,
+          "height": 44,
+          "right": 538.8,
+          "bottom": 54,
+          "fontSize": "12px"
+        },
+        {
+          "selector": "a.nav-link",
+          "width": 87,
+          "height": 44,
+          "right": 629.8,
+          "bottom": 54,
+          "fontSize": "12px"
+        },
+        {
+          "selector": "a.nav-link active",
+          "width": 102.2,
+          "height": 44,
+          "right": 736,
+          "bottom": 54,
+          "fontSize": "12px"
+        },
+        {
+          "selector": "a.button",
+          "width": 215.8,
+          "height": 44,
+          "right": 247.8,
+          "bottom": 424.4,
+          "fontSize": "14px"
+        },
+        {
+          "selector": "a.footer-link",
+          "width": 44,
+          "height": 44,
+          "right": 661.2,
+          "bottom": 1102,
+          "fontSize": "14px"
+        },
+        {
+          "selector": "a.footer-link",
+          "width": 58.8,
+          "height": 44,
+          "right": 736,
+          "bottom": 1102,
+          "fontSize": "14px"
+        }
+      ],
+      "consoleErrors": []
+    },
+    {
+      "route": "/",
+      "width": 1024,
+      "height": 768,
+      "viewport": {
+        "width": 1024,
+        "height": 768
+      },
+      "scrollWidth": 1024,
+      "horizontalOverflow": false,
+      "extendingElements": [],
+      "clippedElements": [],
+      "smallText": [],
+      "smallControls": [],
+      "controls": [
+        {
+          "selector": "a.brand",
+          "width": 99.9,
+          "height": 44,
+          "right": 140.6,
+          "bottom": 54,
+          "fontSize": "18px"
+        },
+        {
+          "selector": "a.nav-link active",
+          "width": 56.5,
+          "height": 44,
+          "right": 786.1,
+          "bottom": 54,
+          "fontSize": "12px"
+        },
+        {
+          "selector": "a.nav-link",
+          "width": 87,
+          "height": 44,
+          "right": 877.1,
+          "bottom": 54,
+          "fontSize": "12px"
+        },
+        {
+          "selector": "a.nav-link",
+          "width": 102.2,
+          "height": 44,
+          "right": 983.3,
+          "bottom": 54,
+          "fontSize": "12px"
+        },
+        {
+          "selector": "input#lc-username.lookup-input",
+          "width": 325.3,
+          "height": 48,
+          "right": 399,
+          "bottom": 534.6,
+          "fontSize": "16px"
+        },
+        {
+          "selector": "input#cf-username.lookup-input",
+          "width": 325.3,
+          "height": 48,
+          "right": 740.4,
+          "bottom": 534.6,
+          "fontSize": "16px"
+        },
+        {
+          "selector": "button.button button-primary",
+          "width": 171.4,
+          "height": 44,
+          "right": 927.7,
+          "bottom": 534.6,
+          "fontSize": "14px"
+        },
+        {
+          "selector": "a.footer-link",
+          "width": 44,
+          "height": 44,
+          "right": 908.5,
+          "bottom": 846,
+          "fontSize": "14px"
+        },
+        {
+          "selector": "a.footer-link",
+          "width": 58.8,
+          "height": 44,
+          "right": 983.3,
+          "bottom": 846,
+          "fontSize": "14px"
+        }
+      ],
+      "consoleErrors": []
+    },
+    {
+      "route": "/Leetcode",
+      "width": 1024,
+      "height": 768,
+      "viewport": {
+        "width": 1024,
+        "height": 768
+      },
+      "scrollWidth": 1024,
+      "horizontalOverflow": false,
+      "extendingElements": [],
+      "clippedElements": [],
+      "smallText": [],
+      "smallControls": [],
+      "controls": [
+        {
+          "selector": "a.brand",
+          "width": 99.9,
+          "height": 44,
+          "right": 140.6,
+          "bottom": 54,
+          "fontSize": "18px"
+        },
+        {
+          "selector": "a.nav-link",
+          "width": 56.5,
+          "height": 44,
+          "right": 786.1,
+          "bottom": 54,
+          "fontSize": "12px"
+        },
+        {
+          "selector": "a.nav-link active",
+          "width": 87,
+          "height": 44,
+          "right": 877.1,
+          "bottom": 54,
+          "fontSize": "12px"
+        },
+        {
+          "selector": "a.nav-link",
+          "width": 102.2,
+          "height": 44,
+          "right": 983.3,
+          "bottom": 54,
+          "fontSize": "12px"
+        },
+        {
+          "selector": "a.button",
+          "width": 215.8,
+          "height": 44,
+          "right": 256.5,
+          "bottom": 469.6,
+          "fontSize": "14px"
+        },
+        {
+          "selector": "a.footer-link",
+          "width": 44,
+          "height": 44,
+          "right": 908.5,
+          "bottom": 846,
+          "fontSize": "14px"
+        },
+        {
+          "selector": "a.footer-link",
+          "width": 58.8,
+          "height": 44,
+          "right": 983.3,
+          "bottom": 846,
+          "fontSize": "14px"
+        }
+      ],
+      "consoleErrors": []
+    },
+    {
+      "route": "/Codeforce",
+      "width": 1024,
+      "height": 768,
+      "viewport": {
+        "width": 1024,
+        "height": 768
+      },
+      "scrollWidth": 1024,
+      "horizontalOverflow": false,
+      "extendingElements": [],
+      "clippedElements": [],
+      "smallText": [],
+      "smallControls": [],
+      "controls": [
+        {
+          "selector": "a.brand",
+          "width": 99.9,
+          "height": 44,
+          "right": 140.6,
+          "bottom": 54,
+          "fontSize": "18px"
+        },
+        {
+          "selector": "a.nav-link",
+          "width": 56.5,
+          "height": 44,
+          "right": 786.1,
+          "bottom": 54,
+          "fontSize": "12px"
+        },
+        {
+          "selector": "a.nav-link",
+          "width": 87,
+          "height": 44,
+          "right": 877.1,
+          "bottom": 54,
+          "fontSize": "12px"
+        },
+        {
+          "selector": "a.nav-link active",
+          "width": 102.2,
+          "height": 44,
+          "right": 983.3,
+          "bottom": 54,
+          "fontSize": "12px"
+        },
+        {
+          "selector": "a.button",
+          "width": 215.8,
+          "height": 44,
+          "right": 256.5,
+          "bottom": 469.6,
+          "fontSize": "14px"
+        },
+        {
+          "selector": "a.footer-link",
+          "width": 44,
+          "height": 44,
+          "right": 908.5,
+          "bottom": 846,
+          "fontSize": "14px"
+        },
+        {
+          "selector": "a.footer-link",
+          "width": 58.8,
+          "height": 44,
+          "right": 983.3,
+          "bottom": 846,
+          "fontSize": "14px"
+        }
+      ],
+      "consoleErrors": []
+    },
+    {
+      "route": "/",
+      "width": 1280,
+      "height": 800,
+      "viewport": {
+        "width": 1280,
+        "height": 800
+      },
+      "scrollWidth": 1280,
+      "horizontalOverflow": false,
+      "extendingElements": [],
+      "clippedElements": [],
+      "smallText": [],
+      "smallControls": [],
+      "controls": [
+        {
+          "selector": "a.brand",
+          "width": 99.9,
+          "height": 44,
+          "right": 187.9,
+          "bottom": 54,
+          "fontSize": "18px"
+        },
+        {
+          "selector": "a.nav-link active",
+          "width": 56.5,
+          "height": 44,
+          "right": 994.8,
+          "bottom": 54,
+          "fontSize": "12px"
+        },
+        {
+          "selector": "a.nav-link",
+          "width": 87,
+          "height": 44,
+          "right": 1085.8,
+          "bottom": 54,
+          "fontSize": "12px"
+        },
+        {
+          "selector": "a.nav-link",
+          "width": 102.2,
+          "height": 44,
+          "right": 1192,
+          "bottom": 54,
+          "fontSize": "12px"
+        },
+        {
+          "selector": "input#lc-username.lookup-input",
+          "width": 325.3,
+          "height": 48,
+          "right": 446.3,
+          "bottom": 563.8,
+          "fontSize": "16px"
+        },
+        {
+          "selector": "input#cf-username.lookup-input",
+          "width": 325.3,
+          "height": 48,
+          "right": 787.6,
+          "bottom": 563.8,
+          "fontSize": "16px"
+        },
+        {
+          "selector": "button.button button-primary",
+          "width": 171.4,
+          "height": 44,
+          "right": 975,
+          "bottom": 563.8,
+          "fontSize": "14px"
+        },
+        {
+          "selector": "a.footer-link",
+          "width": 44,
+          "height": 44,
+          "right": 1117.2,
+          "bottom": 878,
+          "fontSize": "14px"
+        },
+        {
+          "selector": "a.footer-link",
+          "width": 58.8,
+          "height": 44,
+          "right": 1192,
+          "bottom": 878,
+          "fontSize": "14px"
+        }
+      ],
+      "consoleErrors": []
+    },
+    {
+      "route": "/Leetcode",
+      "width": 1280,
+      "height": 800,
+      "viewport": {
+        "width": 1280,
+        "height": 800
+      },
+      "scrollWidth": 1280,
+      "horizontalOverflow": false,
+      "extendingElements": [],
+      "clippedElements": [],
+      "smallText": [],
+      "smallControls": [],
+      "controls": [
+        {
+          "selector": "a.brand",
+          "width": 99.9,
+          "height": 44,
+          "right": 187.9,
+          "bottom": 54,
+          "fontSize": "18px"
+        },
+        {
+          "selector": "a.nav-link",
+          "width": 56.5,
+          "height": 44,
+          "right": 994.8,
+          "bottom": 54,
+          "fontSize": "12px"
+        },
+        {
+          "selector": "a.nav-link active",
+          "width": 87,
+          "height": 44,
+          "right": 1085.8,
+          "bottom": 54,
+          "fontSize": "12px"
+        },
+        {
+          "selector": "a.nav-link",
+          "width": 102.2,
+          "height": 44,
+          "right": 1192,
+          "bottom": 54,
+          "fontSize": "12px"
+        },
+        {
+          "selector": "a.button",
+          "width": 215.8,
+          "height": 44,
+          "right": 303.8,
+          "bottom": 490.5,
+          "fontSize": "14px"
+        },
+        {
+          "selector": "a.footer-link",
+          "width": 44,
+          "height": 44,
+          "right": 1117.2,
+          "bottom": 878,
+          "fontSize": "14px"
+        },
+        {
+          "selector": "a.footer-link",
+          "width": 58.8,
+          "height": 44,
+          "right": 1192,
+          "bottom": 878,
+          "fontSize": "14px"
+        }
+      ],
+      "consoleErrors": []
+    },
+    {
+      "route": "/Codeforce",
+      "width": 1280,
+      "height": 800,
+      "viewport": {
+        "width": 1280,
+        "height": 800
+      },
+      "scrollWidth": 1280,
+      "horizontalOverflow": false,
+      "extendingElements": [],
+      "clippedElements": [],
+      "smallText": [],
+      "smallControls": [],
+      "controls": [
+        {
+          "selector": "a.brand",
+          "width": 99.9,
+          "height": 44,
+          "right": 187.9,
+          "bottom": 54,
+          "fontSize": "18px"
+        },
+        {
+          "selector": "a.nav-link",
+          "width": 56.5,
+          "height": 44,
+          "right": 994.8,
+          "bottom": 54,
+          "fontSize": "12px"
+        },
+        {
+          "selector": "a.nav-link",
+          "width": 87,
+          "height": 44,
+          "right": 1085.8,
+          "bottom": 54,
+          "fontSize": "12px"
+        },
+        {
+          "selector": "a.nav-link active",
+          "width": 102.2,
+          "height": 44,
+          "right": 1192,
+          "bottom": 54,
+          "fontSize": "12px"
+        },
+        {
+          "selector": "a.button",
+          "width": 215.8,
+          "height": 44,
+          "right": 303.8,
+          "bottom": 490.5,
+          "fontSize": "14px"
+        },
+        {
+          "selector": "a.footer-link",
+          "width": 44,
+          "height": 44,
+          "right": 1117.2,
+          "bottom": 878,
+          "fontSize": "14px"
+        },
+        {
+          "selector": "a.footer-link",
+          "width": 58.8,
+          "height": 44,
+          "right": 1192,
+          "bottom": 878,
+          "fontSize": "14px"
+        }
+      ],
+      "consoleErrors": []
+    },
+    {
+      "route": "/",
+      "width": 1440,
+      "height": 900,
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "scrollWidth": 1440,
+      "horizontalOverflow": false,
+      "extendingElements": [],
+      "clippedElements": [],
+      "smallText": [],
+      "smallControls": [],
+      "controls": [
+        {
+          "selector": "a.brand",
+          "width": 99.9,
+          "height": 44,
+          "right": 267.9,
+          "bottom": 54,
+          "fontSize": "18px"
+        },
+        {
+          "selector": "a.nav-link active",
+          "width": 56.5,
+          "height": 44,
+          "right": 1074.8,
+          "bottom": 54,
+          "fontSize": "12px"
+        },
+        {
+          "selector": "a.nav-link",
+          "width": 87,
+          "height": 44,
+          "right": 1165.8,
+          "bottom": 54,
+          "fontSize": "12px"
+        },
+        {
+          "selector": "a.nav-link",
+          "width": 102.2,
+          "height": 44,
+          "right": 1272,
+          "bottom": 54,
+          "fontSize": "12px"
+        },
+        {
+          "selector": "input#lc-username.lookup-input",
+          "width": 325.3,
+          "height": 48,
+          "right": 526.3,
+          "bottom": 571.8,
+          "fontSize": "16px"
+        },
+        {
+          "selector": "input#cf-username.lookup-input",
+          "width": 325.3,
+          "height": 48,
+          "right": 867.6,
+          "bottom": 571.8,
+          "fontSize": "16px"
+        },
+        {
+          "selector": "button.button button-primary",
+          "width": 171.4,
+          "height": 44,
+          "right": 1055,
+          "bottom": 571.8,
+          "fontSize": "14px"
+        },
+        {
+          "selector": "a.footer-link",
+          "width": 44,
+          "height": 44,
+          "right": 1197.2,
+          "bottom": 978,
+          "fontSize": "14px"
+        },
+        {
+          "selector": "a.footer-link",
+          "width": 58.8,
+          "height": 44,
+          "right": 1272,
+          "bottom": 978,
+          "fontSize": "14px"
+        }
+      ],
+      "consoleErrors": []
+    },
+    {
+      "route": "/Leetcode",
+      "width": 1440,
+      "height": 900,
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "scrollWidth": 1440,
+      "horizontalOverflow": false,
+      "extendingElements": [],
+      "clippedElements": [],
+      "smallText": [],
+      "smallControls": [],
+      "controls": [
+        {
+          "selector": "a.brand",
+          "width": 99.9,
+          "height": 44,
+          "right": 267.9,
+          "bottom": 54,
+          "fontSize": "18px"
+        },
+        {
+          "selector": "a.nav-link",
+          "width": 56.5,
+          "height": 44,
+          "right": 1074.8,
+          "bottom": 54,
+          "fontSize": "12px"
+        },
+        {
+          "selector": "a.nav-link active",
+          "width": 87,
+          "height": 44,
+          "right": 1165.8,
+          "bottom": 54,
+          "fontSize": "12px"
+        },
+        {
+          "selector": "a.nav-link",
+          "width": 102.2,
+          "height": 44,
+          "right": 1272,
+          "bottom": 54,
+          "fontSize": "12px"
+        },
+        {
+          "selector": "a.button",
+          "width": 215.8,
+          "height": 44,
+          "right": 383.8,
+          "bottom": 498.5,
+          "fontSize": "14px"
+        },
+        {
+          "selector": "a.footer-link",
+          "width": 44,
+          "height": 44,
+          "right": 1197.2,
+          "bottom": 978,
+          "fontSize": "14px"
+        },
+        {
+          "selector": "a.footer-link",
+          "width": 58.8,
+          "height": 44,
+          "right": 1272,
+          "bottom": 978,
+          "fontSize": "14px"
+        }
+      ],
+      "consoleErrors": []
+    },
+    {
+      "route": "/Codeforce",
+      "width": 1440,
+      "height": 900,
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "scrollWidth": 1440,
+      "horizontalOverflow": false,
+      "extendingElements": [],
+      "clippedElements": [],
+      "smallText": [],
+      "smallControls": [],
+      "controls": [
+        {
+          "selector": "a.brand",
+          "width": 99.9,
+          "height": 44,
+          "right": 267.9,
+          "bottom": 54,
+          "fontSize": "18px"
+        },
+        {
+          "selector": "a.nav-link",
+          "width": 56.5,
+          "height": 44,
+          "right": 1074.8,
+          "bottom": 54,
+          "fontSize": "12px"
+        },
+        {
+          "selector": "a.nav-link",
+          "width": 87,
+          "height": 44,
+          "right": 1165.8,
+          "bottom": 54,
+          "fontSize": "12px"
+        },
+        {
+          "selector": "a.nav-link active",
+          "width": 102.2,
+          "height": 44,
+          "right": 1272,
+          "bottom": 54,
+          "fontSize": "12px"
+        },
+        {
+          "selector": "a.button",
+          "width": 215.8,
+          "height": 44,
+          "right": 383.8,
+          "bottom": 498.5,
+          "fontSize": "14px"
+        },
+        {
+          "selector": "a.footer-link",
+          "width": 44,
+          "height": 44,
+          "right": 1197.2,
+          "bottom": 978,
+          "fontSize": "14px"
+        },
+        {
+          "selector": "a.footer-link",
+          "width": 58.8,
+          "height": 44,
+          "right": 1272,
+          "bottom": 978,
+          "fontSize": "14px"
+        }
+      ],
+      "consoleErrors": []
+    }
+  ],
+  "interactionResults": [
+    {
+      "name": "mobile navigation",
+      "open": {
+        "expanded": "true",
+        "scrollLocked": true,
+        "focusInside": true
+      },
+      "navigate": {
+        "open": false,
+        "expanded": "false",
+        "focusReturned": true,
+        "bodyOverflow": ""
+      },
+      "closeButton": {
+        "open": false,
+        "expanded": "false",
+        "focusReturned": true,
+        "bodyOverflow": ""
+      },
+      "escape": {
+        "open": false,
+        "expanded": "false",
+        "focusReturned": true,
+        "bodyOverflow": ""
+      }
+    },
+    {
+      "name": "Terms anchor",
+      "targetTop": 80,
+      "headerBottom": 65,
+      "viewportHeight": 844,
+      "scrollY": 933,
+      "scrollHeight": 1981,
+      "scrollMarginTop": "80px"
+    },
+    {
+      "name": "Privacy anchor",
+      "targetTop": 79.96875,
+      "headerBottom": 65,
+      "viewportHeight": 844,
+      "scrollY": 1137,
+      "scrollHeight": 1981,
+      "scrollMarginTop": "80px"
+    },
+    {
+      "name": "form 360x400",
+      "inputCheck": [
+        {
+          "fontSize": "16px",
+          "top": 22.9375,
+          "bottom": 70.9375
+        },
+        {
+          "fontSize": "16px",
+          "top": 112.9375,
+          "bottom": 160.9375
+        }
+      ],
+      "width": 360,
+      "scrollWidth": 360,
+      "successCount": 2,
+      "consoleErrors": []
+    },
+    {
+      "name": "form 390x400",
+      "inputCheck": [
+        {
+          "fontSize": "16px",
+          "top": 24.109375,
+          "bottom": 72.109375
+        },
+        {
+          "fontSize": "16px",
+          "top": 114.109375,
+          "bottom": 162.109375
+        }
+      ],
+      "width": 390,
+      "scrollWidth": 390,
+      "successCount": 2,
+      "consoleErrors": []
+    }
+  ],
+  "performance": {
+    "lcp": 1220,
+    "cls": 0.0003698989068253011,
+    "webglDisabled": true,
+    "canvasCount": 0,
+    "reducedMotion": true,
+    "navigation": {
+      "name": "http://127.0.0.1:5177/",
+      "entryType": "navigation",
+      "startTime": 0,
+      "duration": 1002.9000000022352,
+      "navigationId": 7591,
+      "initiatorType": "navigation",
+      "deliveryType": "",
+      "nextHopProtocol": "http/1.1",
+      "renderBlockingStatus": "non-blocking",
+      "contentType": "text/html",
+      "contentEncoding": "",
+      "workerStart": 0,
+      "workerRouterEvaluationStart": 0,
+      "workerCacheLookupStart": 0,
+      "workerMatchedSourceType": "",
+      "workerFinalSourceType": "",
+      "redirectStart": 0,
+      "redirectEnd": 0,
+      "fetchStart": 1.300000000745058,
+      "domainLookupStart": 1.300000000745058,
+      "domainLookupEnd": 1.300000000745058,
+      "connectStart": 1.300000000745058,
+      "secureConnectionStart": 0,
+      "connectEnd": 1.300000000745058,
+      "requestStart": 4.5,
+      "responseStart": 8.600000001490116,
+      "firstInterimResponseStart": 0,
+      "finalResponseHeadersStart": 8.600000001490116,
+      "responseEnd": 160.40000000223517,
+      "transferSize": 921,
+      "encodedBodySize": 621,
+      "decodedBodySize": 621,
+      "responseStatus": 200,
+      "serverTiming": [],
+      "unloadEventStart": 0,
+      "unloadEventEnd": 0,
+      "domInteractive": 241.69999999925494,
+      "domContentLoadedEventStart": 1001.6999999992549,
+      "domContentLoadedEventEnd": 1002.5,
+      "domComplete": 1002.9000000022352,
+      "loadEventStart": 1002.9000000022352,
+      "loadEventEnd": 1002.9000000022352,
+      "type": "navigate",
+      "redirectCount": 0,
+      "activationStart": 0,
+      "criticalCHRestart": 0,
+      "notRestoredReasons": null,
+      "confidence": {
+        "randomizedTriggerRate": 0.4994798,
+        "value": "low"
+      }
+    },
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "scrollWidth": 390,
+    "consoleErrors": []
+  },
+  "failures": []
+}
