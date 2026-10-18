@@ -5,15 +5,13 @@ function useLeetCodeSolved(username,search) {
     const [lcSolved, setLcSolved] = useState(null);
 
     useEffect(() => {
-        if (!username) {
+        if (!username || search === 0) {
             return;
         }
 
         async function fetchSolved() {
             try {
                 const data = await getLeetCodeSolved(username);
-
-                console.log(data);
 
                 setLcSolved(data);
             } catch (error) {
@@ -22,7 +20,7 @@ function useLeetCodeSolved(username,search) {
         }
 
         fetchSolved();
-    }, [username]);
+    }, [username, search]);
 
     return lcSolved;
 }
