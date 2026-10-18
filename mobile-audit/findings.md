@@ -35,7 +35,7 @@ The same 36 route/viewport combinations now report `scrollWidth === innerWidth` 
 - The Terms and Privacy anchors both land 15px below the 65px sticky header at 390x844. The focused legal note gets temporary end spacing on small screens because the document’s normal end otherwise prevents the last anchor from scrolling to the requested offset.
 - Form validation and mocked successful lookups pass at 360x400 and 390x400 with both fields at 16px and visible above the simulated keyboard area.
 - Landscape sizes 568x320 and 844x390 are included in the full responsive matrix. Reduced-motion rendering and a WebGL-disabled environment were checked; no canvas/WebGL content exists.
-- Production preview under 4x CPU throttling and slow 4G measured LCP at 1,228ms and CLS at 0.00037 on 390x844.
+- Production preview under 4x CPU throttling and slow 4G measured LCP at 1,220ms and CLS at 0.00037 on 390x844.
 
 The responsive tokens use 20px phone gutters, 32px tablet gutters, and a fluid gutter capped at 48px on larger screens (content max-width 1200px). Breakpoints are 480px and 768px, with the tablet gutter rule ending at 1024px. Phone headings use `clamp(38px, 11vw, 52px)`; inputs and body copy are 16px, actions 14px, and mono metadata is at least 12px. Existing radii, colors, and type families are preserved.
 
