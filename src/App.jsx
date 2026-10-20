@@ -2,7 +2,8 @@ import { Suspense, lazy, useState } from "react";
 import SummaryCard from "./Components/SummaryCard";
 import { ChartSkeleton, ProfileSkeleton } from "./Components/Skeletons";
 import { useCP } from "./context/useCP";
-
+import { motion } from "motion/react";
+import PracticeTip from "./Components/PracticeTip";
 const DifficultyChart = lazy(() => import("./Components/DifficultyChart"));
 const RatingChart = lazy(() => import("./Components/RatingChart"));
 const SkillStats = lazy(() => import("./Components/SkillStats"));
@@ -75,7 +76,18 @@ function App() {
           <div className="profile-list">
             {lcStatus.state === "loading" && <ProfileSkeleton label="LeetCode" />}
             {lcdata && (
-              <article className={`profile-row${lcdata.avatar ? "" : " profile-row--no-avatar"}`} aria-label="LeetCode profile">
+              <motion.article
+                initial={{ opacity: 0, y: 20, }}
+                animate={{ opacity: 1, y: 0,  }}
+                transition={{ duration: 0.5 }}
+                whileHover={{
+                  scale: 1.02,
+                  y:-4,
+                  boxShadow: "0px 10px 30px rgba(0, 0, 0, 0.6)",
+                  transition: { duration: 0.2 },
+                
+                }}
+                className={`profile-row${lcdata.avatar ? "" : " profile-row--no-avatar"}`} aria-label="LeetCode profile">
                 {lcdata.avatar && <img className="profile-avatar" src={lcdata.avatar} alt={`${lcdata.name || lcdata.username || "LeetCode user"} avatar`} width="64" height="64" />}
                 <div>
                   <span className="profile-platform">LEETCODE</span>
@@ -85,12 +97,29 @@ function App() {
                 <div className="profile-stat">
                   <span className="profile-stat-label">GLOBAL RANK</span>
                   <span className="profile-stat-value">{lcdata.ranking != null && Number.isFinite(Number(lcdata.ranking)) ? `#${Number(lcdata.ranking).toLocaleString()}` : "Unavailable"}</span>
+                  <div>
+                    <a href={`https://leetcode.com/u/${lcdata.username}`}
+                      target="_blank"
+                      rel="noopener noreferrer">View Profile</a>
+                  </div>
                 </div>
-              </article>
+              </motion.article>
             )}
             {cfStatus.state === "loading" && <ProfileSkeleton label="Codeforces" />}
             {cfProfile && (
-              <article className={`profile-row${cfProfile.titlePhoto || cfProfile.avatar ? "" : " profile-row--no-avatar"}`} aria-label="Codeforces profile">
+              <motion.article
+
+                initial={{ opacity: 0, y: 20, x: 0 }}
+                animate={{ opacity: 1, y: 0, x: 20 }}
+                transition={{ duration: 0.5, ease: "easeOut" }}
+                 whileHover={{
+                  scale: 1.02,
+                  y:-4,
+                 boxShadow: "0px 10px 30px rgba(0, 0, 0, 0.6)",
+                  transition: { duration: 0.2 },
+                
+                }}
+                className={`profile-row${cfProfile.titlePhoto || cfProfile.avatar ? "" : " profile-row--no-avatar"}`} aria-label="Codeforces profile">
                 {(cfProfile.titlePhoto || cfProfile.avatar) && <img className="profile-avatar" src={cfProfile.titlePhoto || cfProfile.avatar} alt={`${cfProfile.handle || "Codeforces user"} avatar`} width="64" height="64" />}
                 <div>
                   <span className="profile-platform">CODEFORCES</span>
@@ -100,8 +129,13 @@ function App() {
                 <div className="profile-stat">
                   <span className="profile-stat-label">CURRENT RATING</span>
                   <span className="profile-stat-value">{cfProfile.rating ?? "Unrated"}</span>
+                  <div>
+                    <a href={`https://codeforces.com/profile/${encodeURIComponent(cfProfile.handle)}`}
+                      target="_blank"
+                      rel="noopener noreferrer">View Profile</a>
+                  </div>
                 </div>
-              </article>
+              </motion.article>
             )}
           </div>
         </section>
@@ -133,6 +167,7 @@ function App() {
           <section className="chart-panel section" aria-labelledby="rating-title">
             <h3 className="chart-title" id="rating-title">Contest rating history</h3>
             <Suspense fallback={<ChartSkeleton label="contest rating history" />}><RatingChart /></Suspense>
+            <PracticeTip/>
           </section>
         </section>
       )}

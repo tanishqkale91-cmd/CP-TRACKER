@@ -1,4 +1,4 @@
-CP Tracker
+# CP Tracker
 
 **CP Tracker** brings your competitive programming profiles and progress together in one place. Look up your LeetCode and Codeforces usernames to review profile stats, track performance, and see your LeetCode problem-solving analytics.
 
