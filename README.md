@@ -1,16 +1,50 @@
-# React + Vite
+# CP Tracker
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+**CP Tracker** brings your competitive programming profiles and progress together in one place. Look up your LeetCode and Codeforces usernames to review profile stats, track performance, and see your LeetCode problem-solving analytics.
 
-Currently, two official plugins are available:
+## Live application
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+[Open CP Tracker](https://cptracker-pi.vercel.app/Leetcode)
 
-## React Compiler
+## Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- Search for LeetCode and Codeforces profiles independently or together.
+- View profile summaries, including LeetCode global rank and solved problems, and Codeforces rating and rank.
+- Review LeetCode difficulty breakdown, topic analysis, and contest rating history.
+- Use the responsive interface on desktop and mobile.
 
-## Expanding the Oxlint configuration
+## Run locally
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+### Requirements
+
+- Node.js (current LTS recommended)
+- npm
+
+### Setup
+
+```bash
+git clone https://github.com/tanishqkale91-cmd/CP-TRACKER.git
+cd CP-TRACKER
+npm install
+npm run dev
+```
+
+Vite prints the local development URL in the terminal after the server starts.
+
+## Available scripts
+
+| Command | Description |
+| --- | --- |
+| `npm run dev` | Start the local development server. |
+| `npm run build` | Build the production app. |
+| `npm run preview` | Preview the production build locally. |
+| `npm run lint` | Run Oxlint. |
+| `npm run verify:mobile` | Build the app and run the mobile layout verification. |
+
+## Data sources
+
+Profile information is retrieved from the LeetCode API service and the Codeforces API. Availability and freshness depend on those services.
+
+## Built with
+
+React, Vite, React Router, and Recharts.
